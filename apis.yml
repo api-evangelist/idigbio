@@ -1,0 +1,32 @@
+aid: idigbio
+name: iDigBio
+description: "Access millions of museum specimens from organizations around the world"
+url: https://github.com/idigbio/idigbio-search-api/wiki
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Science & Math"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Science And Math
+  - Public APIs
+apis:
+  - name: iDigBio
+    description: "Access millions of museum specimens from organizations around the world"
+    humanURL: https://github.com/idigbio/idigbio-search-api/wiki
+    baseURL: https://github.com/idigbio/idigbio-search-api/wiki
+    tags:
+      - Science And Math
+    properties:
+      - type: Documentation
+        url: https://github.com/idigbio/idigbio-search-api/wiki
+common:
+  - type: Website
+    url: https://github.com/idigbio/idigbio-search-api/wiki
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
