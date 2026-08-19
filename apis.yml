@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/idigbio.pn
 name: iDigBio
 description: "Access millions of museum specimens from organizations around the world"
 url: https://github.com/idigbio/idigbio-search-api/wiki
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
