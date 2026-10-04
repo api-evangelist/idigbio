@@ -33,13 +33,14 @@ x-category: "Science & Math"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Science And Math
   - Public APIs
+  - Science
+  - Biodiversity
+  - Museums
 apis:
   - name: iDigBio
     description: "Access millions of museum specimens from organizations around the world"
     humanURL: https://github.com/idigbio/idigbio-search-api/wiki
-    baseURL: https://github.com/idigbio/idigbio-search-api/wiki
     tags:
       - Science And Math
     properties:
@@ -53,3 +54,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Science And Math
