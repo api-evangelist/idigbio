@@ -41,7 +41,8 @@ apis:
   - name: iDigBio
     description: "Access millions of museum specimens from organizations around the world"
     humanURL: https://github.com/idigbio/idigbio-search-api/wiki
-    tags:
+    tags: []
+    tags_raw:
       - Science And Math
     properties:
       - type: Documentation
